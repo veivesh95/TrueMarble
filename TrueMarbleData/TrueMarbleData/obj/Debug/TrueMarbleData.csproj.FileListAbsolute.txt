@@ -1,0 +1,6 @@
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleData\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleData\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleData\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleData\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleData\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleData\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
