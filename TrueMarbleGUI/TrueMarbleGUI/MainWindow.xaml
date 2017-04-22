@@ -1,0 +1,29 @@
+﻿<Window x:Class="TrueMarbleGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrueMarbleGUI"
+        mc:Ignorable="d"
+        Title="TrueMarble World Viewer" Height="340" Width="493" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="btnLoad" Content="_Load Tile" Margin="344,0,55,30" Width="88" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="28" Click="btnLoad_Click" BorderThickness="1"/>
+        <Image x:Name="imgTile" Margin="24,25,207,30" Width="256" Height="256"/>
+        <Button x:Name="btnUp" Content="_^" HorizontalAlignment="Left" Margin="375,90,0,0" VerticalAlignment="Top" Width="25" Height="25" Click="button_Click"/>
+        <Button x:Name="btnRight" Content="_&gt;" HorizontalAlignment="Left" Margin="407,119,0,0" VerticalAlignment="Top" Width="25" Height="25" Click="btnRight_Click"/>
+        <Button x:Name="btnDown" Content="_v" HorizontalAlignment="Left" Margin="375,149,0,0" VerticalAlignment="Top" Width="25" Height="25" Click="btnDown_Click"/>
+        <Button x:Name="btnLeft" Content="_&lt;" HorizontalAlignment="Left" Margin="344,119,0,0" VerticalAlignment="Top" Width="25" Height="25" Click="btnLeft_Click"/>
+        <Slider x:Name="slider2" HorizontalAlignment="Left" Height="27" Margin="199,142,0,0" VerticalAlignment="Top" Width="238" RenderTransformOrigin="0.5,0.5" BorderThickness="0" Maximum="6" ToolTip="Drag upwards to Zoom-In" Minimum="1" TickPlacement="BottomRight" ValueChanged="slider2_ValueChanged" IsSnapToTickEnabled="True" Value="6">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="450"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="497,197,-111,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101" IsEnabled="False"/>
+
+    </Grid>
+</Window>

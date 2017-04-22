@@ -1,0 +1,16 @@
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\bin\Debug\TrueMarbleGUI.exe.config
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\bin\Debug\TrueMarbleGUI.exe
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\bin\Debug\TrueMarbleGUI.pdb
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\bin\Debug\TrueMarbleData.exe
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\bin\Debug\TrueMarbleData.pdb
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\MainWindow.g.cs
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\App.g.cs
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\TrueMarbleGUI_MarkupCompile.cache
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\TrueMarbleGUI_MarkupCompile.lref
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\MainWindow.baml
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\TrueMarbleGUI.g.resources
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\TrueMarbleGUI.Properties.Resources.resources
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\TrueMarbleGUI.csproj.GenerateResource.Cache
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\TrueMarbleGUI.exe
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\TrueMarbleGUI.pdb
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\DC1\TrueMarbleGUI\TrueMarbleGUI\obj\Debug\TrueMarbleGUI.csprojResolveAssemblyReference.cache
